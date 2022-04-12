@@ -3,12 +3,12 @@
 
 
 /**
-**main - print single digit numbers
-**
-**Description: print single digit numbers
-**
-**Return: Always 0 (Success)
-**/
+* main - print single digit numbers
+*
+* Description: print single digit numbers
+*
+* Return: Always 0 (Success)
+*/
 
 
 
@@ -24,7 +24,6 @@ int main(void)
 
 
 	while (i < 58)
-
 		{
 
 			putchar(i);
@@ -36,9 +35,6 @@ int main(void)
 
 
 	putchar(10);
-
-
-
 	return (0);
 
 }
