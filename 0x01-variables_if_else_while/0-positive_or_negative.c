@@ -7,12 +7,12 @@
 
 
 /**
- * main - generates random number and displays whether
- *
- * number is positive, zero, or negative
- *
- * Return: Always 0 (Success)
- * */
+* main - generates random number and displays whether
+*
+* number is positive, zero, or negative
+*
+* Return: Always 0 (Success)
+**/
 
 
 int main(void)
