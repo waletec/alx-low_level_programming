@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 #include <unistd.h>
 
 /**
- *  * main - Entry point
- *   * Return: return 1
- *    */
+ * main - Entry point
+ *
+ * Return: return 1
+ */
 
 int main(void)
 {
